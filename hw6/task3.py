@@ -2,10 +2,10 @@ from pyspark import SparkConf, SparkContext
 import sys, time, json, random, math, csv, tweepy
 from collections import defaultdict
 
-API_KEY = "I3PxQ76xUsD0mwuhPhPhL41lN"
-API_SECRET_KEY = "HUF9iiKS0ubovOu7TbXhqgkFCED4enCiKYtwe7QOW7bAEX97gs"
-ACCESS_TOKEN = "1384266740469682176-F0iSdDTwc9FKvdStCotCLbzbJTNx2t"
-ACCESS_TOKEN_SECRET = "NYY5KHwMenLY2QPQJrEXc78zdp0to3Z44ALJvVuamXvy4"
+API_KEY = ""
+API_SECRET_KEY = ""
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
 TRACK = ["China", "United States", "Covid", "Musk", "weather", "news",
     "bitcoin", "Nasdaq", "stock", "money", "crypto"]
 
